@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Dog Breeder Explorer",
+  "description": "A web application to explore different dog breeds. Users can select a breed from a dropdown menu and view random images of that breed.",
+  "requestFramePermissions": []
+}
